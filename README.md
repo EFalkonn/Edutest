@@ -1,3 +1,3 @@
 # Edutest
-Created to try out as per Eduonix tutorial
+Trying for a 2nd example
 
